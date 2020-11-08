@@ -8,10 +8,10 @@
 [![Downloads](http://pepy.tech/badge/random-word)](http://pepy.tech/project/random-word)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://vaibhavsingh97.mit-license.org/)
 
-This is a simple python package to generate random english words.
-If you need help after reading the below, please find me at [@vaibhavsingh97](https://twitter.com/vaibhavsingh97) on Twitter.
+This is a simple python package to generate random english words and maybe their definitions (we'll see)
 
-If you love the package, please :star2: the repo.
+
+
 
 ## Installation
 
